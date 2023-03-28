@@ -1,0 +1,109 @@
+* {
+    font-family: Tahoma, Verdana,  sans;
+}
+
+body {
+    font-family: Tahoma, Verdana,  sans;
+    font-size:16px;
+    color:black;
+    background:white;
+}
+
+html, body {
+    height:95%
+}
+
+.out {
+    height:100%;
+    width:100%;
+    display:table;
+}
+.in {
+    margin:0 auto;
+    display:table-cell;
+    vertical-align:middle;
+
+}
+
+#logo {
+    margin:auto;
+    text-align:center;
+}
+
+#box {
+    margin:auto;
+    width:400px;
+    /*height:180px;*/
+    border:5px solid #dddddd;
+    /*background-color:#cccccc;*/
+    -webkit-border-radius: 20px; /* Safari, Chrome */
+    -khtml-border-radius: 20px;    /* Konqueror */
+    -moz-border-radius: 20px; /* Firefox */
+    border-radius: 20px;
+}
+
+
+a {
+    text-decoration:underline;
+    color:#0000bb;
+    border:0;
+}
+
+a:visited {
+    text-decoration:underline;
+    color:#880088;
+}
+
+a:hover {
+}
+
+abbr {
+    border-bottom:1px dotted black;
+    cursor:help;
+}
+
+.source {
+    text-align:right;
+}
+
+q {
+    font-style:italic;
+}
+
+img {
+    border:0;
+}
+
+h1#names {
+    font-variant: small-caps;
+}
+
+h2#role {
+    font-variant: small-caps;
+}
+
+h4#mail {
+    font-variant: small-caps;
+}
+
+#nav {
+    padding-top:40px;
+}
+
+h5#nav {
+    color:#eeeeee;
+}
+
+h5#nav  a{
+    color:#eeeeee;
+}
+
+h5#nav  a:hover{
+    color:#000000;
+}
+
+h5#nav  a:visited{
+    color:#eeeeee;
+}
+
+
